@@ -1,1 +1,1 @@
-# College-major-project
+# Major-project
